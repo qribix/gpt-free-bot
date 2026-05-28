@@ -52,7 +52,7 @@
 
  1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/qibix/gpt-free-bot.git
+   git clone https://github.com/qribix/gpt-free-bot.git
    cd gpt-free-bot
    ```
    
